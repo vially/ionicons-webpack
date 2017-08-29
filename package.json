@@ -1,6 +1,6 @@
 {
   "name": "ionicons-webpack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ionicons package for webpack",
   "main": "index.js",
   "loader": "index.loader.js",
@@ -16,11 +16,6 @@
     "webpack"
   ],
   "license": "MIT",
-  "dependencies": {
-    "css-loader": "~0.17.0",
-    "sass-loader": "~3.2.0",
-    "style-loader": "~0.12.3"
-  },
   "peerDependencies": {
     "ionicons": "^2.0.1"
   },
